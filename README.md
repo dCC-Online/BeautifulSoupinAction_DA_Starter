@@ -1,1 +1,1 @@
-# BeautifulSoupinAction_DA_Starter
+# Starter code for the Beautiful Soup in Action DA lab assignment
